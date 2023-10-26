@@ -14,8 +14,8 @@ In my free time, I'm always exploring new data projects and trying out the lates
 
 List your key skills or areas of expertise. For example:
 
-- **Programming Languages**: Python, JavaScript, Java
-- **Data Analysis**: Pandas, NumPy
+- **Programming Languages**: Python, R, JavaScript(TypeScript), Java
+- **Data Analysis**: Pandas, NumPy, Matplotlib
 - **Machine Learning**: TensorFlow, Scikit-Learn
 - **Database Management**: SQL, MongoDB
 - **Version Control**: Git, GitHub
