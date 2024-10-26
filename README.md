@@ -4,10 +4,10 @@
 
 ## About Me
 
-Enthusiastic and detail-oriented Junior Data Scientist | AI Engineer with a passion for leveraging data-driven insights to solve complex problems. Experienced in machine learning algorithms, statistical analysis, and data visualization techniques
+Enthusiastic and detail-oriented AI Engineer with a passion for leveraging data-driven insights to solve complex problems. Experienced in machine learning algorithms, statistical analysis, and data visualization techniques
 ### Skills:
 
-- Programming Languages: Python, R, SQL
+- Programming Languages: Python, JS
 - Machine Learning: Regression, Classification, Clustering, Neural Networks
 - Data Visualization: Matplotlib, Seaborn, Tableau
 - Statistical Analysis: Hypothesis Testing, A/B Testing, Time Series Analysis
